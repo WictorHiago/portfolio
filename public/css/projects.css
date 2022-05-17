@@ -1,0 +1,25 @@
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+article div {
+    display: flex;
+}
+article div img {
+    width: 50%;
+}
+article h1{
+    margin: 10px 0;
+}
+.git{
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.git a{
+    margin: 3px;
+    font-weight: bold;
+    color: #5d00ffd1;
+}
